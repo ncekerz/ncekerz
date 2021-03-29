@@ -1,8 +1,3 @@
-### Hi there 👋
-
-<!--
-**ncekerz/ncekerz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 - 🔭 I’m Ray aka ncekerz
 - 🎓 I’m a student 
 - 🌱 I'm currently learning C++?
