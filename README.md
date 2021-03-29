@@ -1,5 +1,5 @@
 - 🔭 I’m Ray aka ncekerz
-- 🇮🇩 From Indonesia
+- :indonesia: From Indonesia
 - 🎓 I’m a student 
 - 🌱 I'm currently learning C++?
 - 📫 How to reach me : [Telegram](https://t.me/rayrzy)
