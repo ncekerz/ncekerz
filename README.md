@@ -1,7 +1,7 @@
 - 🔭 I’m Ray aka ncekerz
-- :indonesia: From Indonesia
+- :indonesia: I'm from Indonesia
 - 🎓 I’m a student 
-- 🌱 I'm currently learning C++?
+- 🌱 I'm currently learning C++ (?)
 - 📫 How to reach me : [Telegram](https://t.me/rayrzy)
 - 😄 Pronouns: he/him/his
 
