@@ -1,4 +1,4 @@
-- 🔭 I’m Ray aka rayrzy
+- 🔭 I’m Ray
 - <img src="https://raw.githubusercontent.com/mpurnomoadji/GameTebakAku-master/master/website/img/animasi-bergerak-bendera-indonesia-0013.gif" width="30px"> I'm from Indonesia
 - 🎓 I’m a student 
 - 🌱 I'm currently learning C++ (?)
