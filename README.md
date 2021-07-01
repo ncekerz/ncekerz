@@ -5,4 +5,4 @@
 - 📫 How to reach me : [Telegram](https://t.me/rayrzy)
 - 😄 Pronouns: he/him/his
 
-[![ncekerz github stats](https://github-readme-stats.vercel.app/api?username=rayrzy&show_icons=true&theme=tokyonight)](https://github.com/rayrzy)
+[![rayrzy github stats](https://github-readme-stats.vercel.app/api?username=rayrzy&show_icons=true&theme=tokyonight)](https://github.com/rayrzy)
