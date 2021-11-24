@@ -5,7 +5,7 @@
 - 📫 How to reach me : [Telegram](https://t.me/rayrzy)
 - 👨🏻 Pronouns: he/him/his
 
-<img src="https://madewithlove.now.sh/ph?colorA=%23201d1d&colorB=%23e39393" alt="Made with love in Indonesia">
+<img src="https://madewithlove.now.sh/id?colorA=%23201d1d&colorB=%23e39393" alt="Made with love in Indonesia">
 
 **Languages and Tools:**
 
