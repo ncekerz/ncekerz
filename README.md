@@ -1,8 +1,7 @@
 - 👋 I’m Ray
 - 🇮🇩 I'm from Indonesia
-- 🎓 I’m a college student 
-- 📚 I'm currently learning C++, Java
-- 📫 How to reach me : [Telegram](https://t.me/rayrzy)
+- 🎓 I’m a college student
+- 📫 How to reach me: [Telegram](https://t.me/rayrzy)
 - 👨🏻 Pronouns: he/him/his
 
 <img src="https://madewithlove.now.sh/id?colorA=%23201d1d&colorB=%23e39393" alt="Made with love in Indonesia">
